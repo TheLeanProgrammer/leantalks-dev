@@ -1,7 +1,9 @@
 # The Lean Talks Website
 
-- Landing (Head)
-- What is the lean talks
+- [Anjy] The initial template
+- [Parvathi] Landing (Head)
+- [Aishwarya] What is the lean talks
+- [Anjy] Our latest workshop
 - Why should you attend our sessions
 - Sessions archive [Past sessions]
 - Community partners
